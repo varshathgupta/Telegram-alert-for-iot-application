@@ -1,2 +1,2 @@
 # Telegram-alert-for-iot-application
-#it is done by bolt iot microprocessor
+it is done by bolt iot microprocessor
